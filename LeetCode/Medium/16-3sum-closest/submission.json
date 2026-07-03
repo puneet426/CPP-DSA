@@ -1,0 +1,17 @@
+{
+  "title": "3Sum Closest",
+  "questionId": "16",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "15 ms",
+  "memory": "13.9 MB",
+  "runtimePercentile": "31.4",
+  "memoryPercentile": "97.3",
+  "submittedAt": "2026-07-03T09:08:12.260Z",
+  "problemUrl": "https://leetcode.com/problems/3sum-closest/"
+}
