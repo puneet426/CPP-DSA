@@ -1,0 +1,17 @@
+{
+  "title": "Integer to Roman",
+  "questionId": "12",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "language": "cpp",
+  "runtime": "2 ms",
+  "memory": "9.2 MB",
+  "runtimePercentile": "71.1",
+  "memoryPercentile": "82.1",
+  "submittedAt": "2026-07-03T09:16:37.673Z",
+  "problemUrl": "https://leetcode.com/problems/integer-to-roman/"
+}
