@@ -1,0 +1,17 @@
+{
+  "title": "Number of Paths with Max Score",
+  "questionId": "1234",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "6 ms",
+  "memory": "11.3 MB",
+  "runtimePercentile": "82.2",
+  "memoryPercentile": "78.4",
+  "submittedAt": "2026-07-05T04:48:06.052Z",
+  "problemUrl": "https://leetcode.com/problems/number-of-paths-with-max-score/"
+}
