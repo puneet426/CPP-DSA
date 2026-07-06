@@ -1,0 +1,16 @@
+{
+  "title": "Remove Covered Intervals",
+  "questionId": "1222",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "15.2 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "60.1",
+  "submittedAt": "2026-07-06T13:07:14.480Z",
+  "problemUrl": "https://leetcode.com/problems/remove-covered-intervals/"
+}
