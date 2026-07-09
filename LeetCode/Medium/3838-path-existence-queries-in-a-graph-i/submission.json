@@ -1,0 +1,19 @@
+{
+  "title": "Path Existence Queries in a Graph I",
+  "questionId": "3838",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "21 ms",
+  "memory": "224 MB",
+  "runtimePercentile": "55.1",
+  "memoryPercentile": "90.4",
+  "submittedAt": "2026-07-09T13:24:47.421Z",
+  "problemUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-i/"
+}
