@@ -1,0 +1,22 @@
+{
+  "title": "Path Existence Queries in a Graph II",
+  "questionId": "3852",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Dynamic Programming",
+    "Greedy",
+    "Bit Manipulation",
+    "Graph Theory",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "336 ms",
+  "memory": "395.5 MB",
+  "runtimePercentile": "38.2",
+  "memoryPercentile": "27.6",
+  "submittedAt": "2026-07-10T13:32:49.267Z",
+  "problemUrl": "https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/"
+}
