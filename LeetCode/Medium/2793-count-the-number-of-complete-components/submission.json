@@ -1,0 +1,18 @@
+{
+  "title": "Count the Number of Complete Components",
+  "questionId": "2793",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "34 ms",
+  "memory": "136.8 MB",
+  "runtimePercentile": "79.8",
+  "memoryPercentile": "36.5",
+  "submittedAt": "2026-07-11T13:58:40.727Z",
+  "problemUrl": "https://leetcode.com/problems/count-the-number-of-complete-components/"
+}
