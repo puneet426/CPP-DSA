@@ -1,0 +1,17 @@
+{
+  "title": "Rank Transform of an Array",
+  "questionId": "1256",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "35 ms",
+  "memory": "44 MB",
+  "runtimePercentile": "88.6",
+  "memoryPercentile": "55.3",
+  "submittedAt": "2026-07-12T12:41:35.998Z",
+  "problemUrl": "https://leetcode.com/problems/rank-transform-of-an-array/"
+}
