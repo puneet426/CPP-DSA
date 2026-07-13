@@ -1,0 +1,15 @@
+{
+  "title": "Sequential Digits",
+  "questionId": "1212",
+  "difficulty": "Medium",
+  "tags": [
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.2 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "76.9",
+  "submittedAt": "2026-07-13T06:27:43.254Z",
+  "problemUrl": "https://leetcode.com/problems/sequential-digits/"
+}
