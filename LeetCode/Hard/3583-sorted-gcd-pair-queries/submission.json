@@ -1,0 +1,22 @@
+{
+  "title": "Sorted GCD Pair Queries",
+  "questionId": "3583",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Math",
+    "Binary Search",
+    "Combinatorics",
+    "Counting",
+    "Number Theory",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "runtime": "39 ms",
+  "memory": "132.4 MB",
+  "runtimePercentile": "78.7",
+  "memoryPercentile": "36.0",
+  "submittedAt": "2026-07-17T14:32:41.007Z",
+  "problemUrl": "https://leetcode.com/problems/sorted-gcd-pair-queries/"
+}
