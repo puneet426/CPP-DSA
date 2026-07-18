@@ -1,0 +1,17 @@
+{
+  "title": "Find Greatest Common Divisor of Array",
+  "questionId": "2106",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Number Theory"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "16.3 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "31.7",
+  "submittedAt": "2026-07-18T13:24:26.667Z",
+  "problemUrl": "https://leetcode.com/problems/find-greatest-common-divisor-of-array/"
+}
