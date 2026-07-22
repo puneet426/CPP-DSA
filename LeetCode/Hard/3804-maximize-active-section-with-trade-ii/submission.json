@@ -1,0 +1,18 @@
+{
+  "title": "Maximize Active Section with Trade II",
+  "questionId": "3804",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "String",
+    "Binary Search",
+    "Segment Tree"
+  ],
+  "language": "cpp",
+  "runtime": "89 ms",
+  "memory": "287 MB",
+  "runtimePercentile": "71.0",
+  "memoryPercentile": "19.4",
+  "submittedAt": "2026-07-22T11:27:56.094Z",
+  "problemUrl": "https://leetcode.com/problems/maximize-active-section-with-trade-ii/"
+}
