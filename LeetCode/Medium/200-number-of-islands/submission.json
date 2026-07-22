@@ -1,0 +1,19 @@
+{
+  "title": "Number of Islands",
+  "questionId": "200",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "24 ms",
+  "memory": "16.6 MB",
+  "runtimePercentile": "77.9",
+  "memoryPercentile": "65.6",
+  "submittedAt": "2026-07-22T11:25:02.278Z",
+  "problemUrl": "https://leetcode.com/problems/number-of-islands/"
+}
