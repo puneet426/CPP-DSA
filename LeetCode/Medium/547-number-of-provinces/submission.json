@@ -1,0 +1,18 @@
+{
+  "title": "Number of Provinces",
+  "questionId": "547",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "3 ms",
+  "memory": "20.4 MB",
+  "runtimePercentile": "36.8",
+  "memoryPercentile": "37.3",
+  "submittedAt": "2026-07-23T07:05:10.896Z",
+  "problemUrl": "https://leetcode.com/problems/number-of-provinces/"
+}
