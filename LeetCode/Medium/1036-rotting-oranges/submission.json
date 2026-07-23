@@ -1,0 +1,17 @@
+{
+  "title": "Rotting Oranges",
+  "questionId": "1036",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "16.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "70.4",
+  "submittedAt": "2026-07-23T11:31:03.819Z",
+  "problemUrl": "https://leetcode.com/problems/rotting-oranges/"
+}
