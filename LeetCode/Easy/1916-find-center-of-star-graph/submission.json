@@ -1,0 +1,15 @@
+{
+  "title": "Find Center of Star Graph",
+  "questionId": "1916",
+  "difficulty": "Easy",
+  "tags": [
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "99.3 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "46.7",
+  "submittedAt": "2026-07-23T17:32:51.689Z",
+  "problemUrl": "https://leetcode.com/problems/find-center-of-star-graph/"
+}
