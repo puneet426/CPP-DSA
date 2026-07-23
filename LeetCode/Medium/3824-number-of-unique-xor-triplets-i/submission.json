@@ -1,0 +1,17 @@
+{
+  "title": "Number of Unique XOR Triplets I",
+  "questionId": "3824",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "198.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "98.1",
+  "submittedAt": "2026-07-23T11:41:23.444Z",
+  "problemUrl": "https://leetcode.com/problems/number-of-unique-xor-triplets-i/"
+}
