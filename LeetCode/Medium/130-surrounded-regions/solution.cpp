@@ -24,23 +24,22 @@ int y[4] = {0,0,1,-1};
         int n = a.size();
         int m = a[0].size();
         int i,j;
-        for(j=0;j<m;j++){
-            if(a[0][j]=='O'){
-                dfs(a,n,m,0,j);
-            }
-        }
-        for(j=0;j<m;j++){
-            if(a[n-1][j]=='O')
-            dfs(a,n,m,n-1,j);
-        }
-        for(i=0;i<n;i++){
-            if(a[i][0]=='O')
-            dfs(a,n,m,i,0);
-        }
-        for(i=0;i<n;i++){
-            if(a[i][m-1]=='O')
-            dfs(a,n,m,i,m-1);
-        }
+      for(j=0;j<m;j++){
+        if(a[0][j]=='O')
+        dfs(a,n,m,0,j);
+      }
+      for(j=0;j<m;j++){
+        if(a[n-1][j]=='O')
+        dfs(a,n,m,n-1,j);
+      }
+      for(i=0;i<n;i++){
+        if(a[i][0]=='O')
+        dfs(a,n,m,i,0);
+      }
+      for(i=0;i<n;i++){
+        if(a[i][m-1]=='O')
+        dfs(a,n,m,i,m-1);
+      }
         for(int i=0;i<n;i++){
             for(j=0;j<m;j++){
                 if(a[i][j]=='#')
