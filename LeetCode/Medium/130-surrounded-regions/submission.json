@@ -1,0 +1,19 @@
+{
+  "title": "Surrounded Regions",
+  "questionId": "130",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "13.8 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "91.2",
+  "submittedAt": "2026-07-24T13:07:03.522Z",
+  "problemUrl": "https://leetcode.com/problems/surrounded-regions/"
+}
