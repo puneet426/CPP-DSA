@@ -1,0 +1,17 @@
+{
+  "title": "Keys and Rooms",
+  "questionId": "871",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "14.4 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "72.8",
+  "submittedAt": "2026-07-24T14:33:28.670Z",
+  "problemUrl": "https://leetcode.com/problems/keys-and-rooms/"
+}
