@@ -1,0 +1,16 @@
+{
+  "title": "Maximum Product of Two Digits",
+  "questionId": "3859",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "59.3",
+  "submittedAt": "2026-07-25T15:51:28.976Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-product-of-two-digits/"
+}
