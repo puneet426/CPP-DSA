@@ -1,0 +1,17 @@
+{
+  "title": "Maximum Product of Three Numbers",
+  "questionId": "628",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Math",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "31.6 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "46.2",
+  "submittedAt": "2026-07-26T10:55:20.001Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-product-of-three-numbers/"
+}
