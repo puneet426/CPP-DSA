@@ -1,0 +1,18 @@
+{
+  "title": "01 Matrix",
+  "questionId": "542",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "19 ms",
+  "memory": "38.8 MB",
+  "runtimePercentile": "56.1",
+  "memoryPercentile": "38.0",
+  "submittedAt": "2026-07-26T10:52:24.618Z",
+  "problemUrl": "https://leetcode.com/problems/01-matrix/"
+}
