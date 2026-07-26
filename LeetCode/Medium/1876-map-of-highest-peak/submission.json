@@ -1,0 +1,17 @@
+{
+  "title": "Map of Highest Peak",
+  "questionId": "1876",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "91 ms",
+  "memory": "128.1 MB",
+  "runtimePercentile": "32.7",
+  "memoryPercentile": "22.0",
+  "submittedAt": "2026-07-26T11:34:41.175Z",
+  "problemUrl": "https://leetcode.com/problems/map-of-highest-peak/"
+}
