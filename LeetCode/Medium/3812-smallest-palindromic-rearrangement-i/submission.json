@@ -1,0 +1,17 @@
+{
+  "title": "Smallest Palindromic Rearrangement I",
+  "questionId": "3812",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Sorting",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "runtime": "21 ms",
+  "memory": "75.7 MB",
+  "runtimePercentile": "85.7",
+  "memoryPercentile": "33.6",
+  "submittedAt": "2026-07-28T12:15:57.380Z",
+  "problemUrl": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i/"
+}
