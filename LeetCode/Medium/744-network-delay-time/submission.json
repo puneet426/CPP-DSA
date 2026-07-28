@@ -1,0 +1,19 @@
+{
+  "title": "Network Delay Time",
+  "questionId": "744",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "runtime": "80 ms",
+  "memory": "44.5 MB",
+  "runtimePercentile": "68.3",
+  "memoryPercentile": "44.8",
+  "submittedAt": "2026-07-28T12:34:05.134Z",
+  "problemUrl": "https://leetcode.com/problems/network-delay-time/"
+}
