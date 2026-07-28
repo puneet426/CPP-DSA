@@ -1,0 +1,21 @@
+{
+  "title": "Path With Minimum Effort",
+  "questionId": "1753",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "48 ms",
+  "memory": "25.7 MB",
+  "runtimePercentile": "73.9",
+  "memoryPercentile": "35.0",
+  "submittedAt": "2026-07-28T04:12:44.387Z",
+  "problemUrl": "https://leetcode.com/problems/path-with-minimum-effort/"
+}
