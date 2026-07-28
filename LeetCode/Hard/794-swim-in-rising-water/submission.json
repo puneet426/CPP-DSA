@@ -1,0 +1,21 @@
+{
+  "title": "Swim in Rising Water",
+  "questionId": "794",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Union-Find",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "7 ms",
+  "memory": "12.8 MB",
+  "runtimePercentile": "61.5",
+  "memoryPercentile": "75.6",
+  "submittedAt": "2026-07-28T19:25:54.662Z",
+  "problemUrl": "https://leetcode.com/problems/swim-in-rising-water/"
+}
