@@ -1,0 +1,20 @@
+{
+  "title": "Cheapest Flights Within K Stops",
+  "questionId": "803",
+  "difficulty": "Medium",
+  "tags": [
+    "Dynamic Programming",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory",
+    "Heap (Priority Queue)",
+    "Shortest Path"
+  ],
+  "language": "cpp",
+  "runtime": "2 ms",
+  "memory": "17.7 MB",
+  "runtimePercentile": "66.6",
+  "memoryPercentile": "81.5",
+  "submittedAt": "2026-07-29T03:44:31.634Z",
+  "problemUrl": "https://leetcode.com/problems/cheapest-flights-within-k-stops/"
+}
