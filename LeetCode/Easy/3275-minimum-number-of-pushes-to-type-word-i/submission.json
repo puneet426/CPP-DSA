@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Number of Pushes to Type Word I",
+  "questionId": "3275",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.4 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "54.7",
+  "submittedAt": "2026-07-30T16:43:28.843Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/"
+}
