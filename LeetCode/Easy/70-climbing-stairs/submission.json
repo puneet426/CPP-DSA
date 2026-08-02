@@ -1,0 +1,17 @@
+{
+  "title": "Climbing Stairs",
+  "questionId": "70",
+  "difficulty": "Easy",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Memoization"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.5 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "38.7",
+  "submittedAt": "2026-08-02T06:58:32.524Z",
+  "problemUrl": "https://leetcode.com/problems/climbing-stairs/"
+}
