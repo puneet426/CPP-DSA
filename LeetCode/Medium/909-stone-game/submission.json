@@ -1,0 +1,18 @@
+{
+  "title": "Stone Game",
+  "questionId": "909",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "10.3 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "98.7",
+  "submittedAt": "2026-08-02T07:00:36.300Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game/"
+}
