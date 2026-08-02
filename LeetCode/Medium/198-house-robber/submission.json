@@ -7,10 +7,10 @@
     "Dynamic Programming"
   ],
   "language": "cpp",
-  "runtime": "3 ms",
-  "memory": "11.1 MB",
-  "runtimePercentile": "6.0",
+  "runtime": "2 ms",
+  "memory": "10.9 MB",
+  "runtimePercentile": "7.5",
   "memoryPercentile": "6.2",
-  "submittedAt": "2026-08-02T11:45:10.556Z",
+  "submittedAt": "2026-08-02T11:51:05.869Z",
   "problemUrl": "https://leetcode.com/problems/house-robber/"
 }

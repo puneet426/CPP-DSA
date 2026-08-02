@@ -7,9 +7,9 @@
 **Tags:** Array, Dynamic Programming
 
 ## Submission
-- **Runtime:** 3 ms (beats 6.0%)
-- **Memory:** 11.1 MB (beats 6.2%)
-- **Submitted:** 2026-08-02 11:45:10 UTC
+- **Runtime:** 2 ms (beats 7.5%)
+- **Memory:** 10.9 MB (beats 6.2%)
+- **Submitted:** 2026-08-02 11:51:05 UTC
 
 ## Approach
 _Add your notes on the approach here._
