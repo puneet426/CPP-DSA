@@ -1,0 +1,16 @@
+{
+  "title": "House Robber II",
+  "questionId": "213",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "11.4 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "7.6",
+  "submittedAt": "2026-08-03T02:43:49.366Z",
+  "problemUrl": "https://leetcode.com/problems/house-robber-ii/"
+}
