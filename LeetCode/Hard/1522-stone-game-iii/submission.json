@@ -1,0 +1,20 @@
+{
+  "title": "Stone Game III",
+  "questionId": "1522",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "runtime": "50 ms",
+  "memory": "140.7 MB",
+  "runtimePercentile": "28.4",
+  "memoryPercentile": "55.1",
+  "submittedAt": "2026-08-03T16:58:36.294Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game-iii/"
+}
