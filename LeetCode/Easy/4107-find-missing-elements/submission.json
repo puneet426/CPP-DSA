@@ -1,0 +1,17 @@
+{
+  "title": "Find Missing Elements",
+  "questionId": "4107",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "32.2 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "75.5",
+  "submittedAt": "2026-08-04T04:55:22.740Z",
+  "problemUrl": "https://leetcode.com/problems/find-missing-elements/"
+}
