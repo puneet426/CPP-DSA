@@ -1,0 +1,17 @@
+{
+  "title": "Jump Game",
+  "questionId": "55",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "52.4 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "58.2",
+  "submittedAt": "2026-08-05T06:58:08.055Z",
+  "problemUrl": "https://leetcode.com/problems/jump-game/"
+}
