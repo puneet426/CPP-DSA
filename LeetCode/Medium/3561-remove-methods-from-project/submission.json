@@ -1,0 +1,17 @@
+{
+  "title": "Remove Methods From Project",
+  "questionId": "3561",
+  "difficulty": "Medium",
+  "tags": [
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Graph Theory"
+  ],
+  "language": "cpp",
+  "runtime": "176 ms",
+  "memory": "305.8 MB",
+  "runtimePercentile": "66.6",
+  "memoryPercentile": "69.0",
+  "submittedAt": "2026-08-05T07:00:28.388Z",
+  "problemUrl": "https://leetcode.com/problems/remove-methods-from-project/"
+}
