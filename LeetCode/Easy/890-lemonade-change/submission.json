@@ -1,0 +1,16 @@
+{
+  "title": "Lemonade Change",
+  "questionId": "890",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "87.1 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "76.5",
+  "submittedAt": "2026-08-05T06:28:00.360Z",
+  "problemUrl": "https://leetcode.com/problems/lemonade-change/"
+}
