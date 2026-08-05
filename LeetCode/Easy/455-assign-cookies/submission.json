@@ -1,0 +1,19 @@
+{
+  "title": "Assign Cookies",
+  "questionId": "455",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Two Pointers",
+    "Greedy",
+    "Sorting",
+    "Quicksort"
+  ],
+  "language": "cpp",
+  "runtime": "8 ms",
+  "memory": "44.9 MB",
+  "runtimePercentile": "59.2",
+  "memoryPercentile": "48.8",
+  "submittedAt": "2026-08-05T06:41:34.166Z",
+  "problemUrl": "https://leetcode.com/problems/assign-cookies/"
+}
