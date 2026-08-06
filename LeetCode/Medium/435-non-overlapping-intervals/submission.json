@@ -1,0 +1,18 @@
+{
+  "title": "Non-overlapping Intervals",
+  "questionId": "435",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "60 ms",
+  "memory": "94 MB",
+  "runtimePercentile": "32.4",
+  "memoryPercentile": "69.2",
+  "submittedAt": "2026-08-06T10:13:23.368Z",
+  "problemUrl": "https://leetcode.com/problems/non-overlapping-intervals/"
+}
