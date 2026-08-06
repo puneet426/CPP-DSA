@@ -1,0 +1,17 @@
+{
+  "title": "Merge Intervals",
+  "questionId": "56",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Sorting",
+    "Quicksort"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "23.9 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "59.5",
+  "submittedAt": "2026-08-06T06:40:16.741Z",
+  "problemUrl": "https://leetcode.com/problems/merge-intervals/"
+}
