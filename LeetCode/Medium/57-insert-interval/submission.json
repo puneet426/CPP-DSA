@@ -1,0 +1,15 @@
+{
+  "title": "Insert Interval",
+  "questionId": "57",
+  "difficulty": "Medium",
+  "tags": [
+    "Array"
+  ],
+  "language": "cpp",
+  "runtime": "3 ms",
+  "memory": "21.6 MB",
+  "runtimePercentile": "30.7",
+  "memoryPercentile": "95.6",
+  "submittedAt": "2026-08-06T10:18:29.816Z",
+  "problemUrl": "https://leetcode.com/problems/insert-interval/"
+}
