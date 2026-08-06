@@ -1,0 +1,17 @@
+{
+  "title": "Minimum Number of Arrows to Burst Balloons",
+  "questionId": "452",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "48 ms",
+  "memory": "94.1 MB",
+  "runtimePercentile": "54.7",
+  "memoryPercentile": "26.5",
+  "submittedAt": "2026-08-06T11:14:31.721Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
+}
