@@ -1,0 +1,18 @@
+{
+  "title": "Find the Lexicographically Smallest Valid Sequence",
+  "questionId": "3584",
+  "difficulty": "Medium",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "runtime": "62 ms",
+  "memory": "115.3 MB",
+  "runtimePercentile": "8.5",
+  "memoryPercentile": "31.9",
+  "submittedAt": "2026-08-08T11:30:49.764Z",
+  "problemUrl": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/"
+}
