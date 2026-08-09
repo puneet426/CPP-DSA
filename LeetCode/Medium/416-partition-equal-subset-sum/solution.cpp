@@ -1,3 +1,6 @@
+// simple problem hai as like subset sum 
+// hume yha par equal sum mai divide karna hai to sum find karenge and than hum sum ko equal part mai divide karenge aur usse ek subset nikal lenge as like subset sum to humare second subset ka sum bhi equal hi hoga 
+
 class Solution {
 public:
  int t[1001][10001];
