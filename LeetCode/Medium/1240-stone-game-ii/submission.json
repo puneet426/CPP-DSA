@@ -1,0 +1,21 @@
+{
+  "title": "Stone Game II",
+  "questionId": "1240",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Prefix Sum",
+    "Game Theory",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "runtime": "4 ms",
+  "memory": "13.6 MB",
+  "runtimePercentile": "89.0",
+  "memoryPercentile": "64.5",
+  "submittedAt": "2026-08-09T11:06:13.705Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game-ii/"
+}
