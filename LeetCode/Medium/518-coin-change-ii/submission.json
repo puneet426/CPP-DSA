@@ -1,0 +1,18 @@
+{
+  "title": "Coin Change II",
+  "questionId": "518",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Dynamic Programming",
+    "Knapsack Problem",
+    "Complete Knapsack"
+  ],
+  "language": "cpp",
+  "runtime": "33 ms",
+  "memory": "61.8 MB",
+  "runtimePercentile": "43.8",
+  "memoryPercentile": "5.7",
+  "submittedAt": "2026-08-10T11:17:38.819Z",
+  "problemUrl": "https://leetcode.com/problems/coin-change-ii/"
+}
