@@ -1,0 +1,21 @@
+{
+  "title": "Stone Game IV",
+  "questionId": "1617",
+  "difficulty": "Hard",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Minimax",
+    "Game Theory",
+    "Nim Game",
+    "Sprague–Grundy Theorem",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "runtime": "14 ms",
+  "memory": "8.1 MB",
+  "runtimePercentile": "95.7",
+  "memoryPercentile": "96.4",
+  "submittedAt": "2026-08-10T18:55:49.866Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game-iv/"
+}
