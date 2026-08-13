@@ -1,0 +1,18 @@
+{
+  "title": "Longest Substring of One Repeating Character",
+  "questionId": "2319",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "String",
+    "Segment Tree",
+    "Ordered Set"
+  ],
+  "language": "cpp",
+  "runtime": "411 ms",
+  "memory": "177 MB",
+  "runtimePercentile": "21.5",
+  "memoryPercentile": "16.8",
+  "submittedAt": "2026-08-13T16:03:08.449Z",
+  "problemUrl": "https://leetcode.com/problems/longest-substring-of-one-repeating-character/"
+}
