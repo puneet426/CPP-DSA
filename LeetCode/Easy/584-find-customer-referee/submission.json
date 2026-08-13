@@ -1,0 +1,15 @@
+{
+  "title": "Find Customer Referee",
+  "questionId": "584",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "704 ms",
+  "memory": "0B",
+  "runtimePercentile": "9.2",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-08-13T09:49:48.418Z",
+  "problemUrl": "https://leetcode.com/problems/find-customer-referee/"
+}
