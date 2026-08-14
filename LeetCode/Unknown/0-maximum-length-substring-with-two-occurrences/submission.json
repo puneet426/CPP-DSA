@@ -1,0 +1,13 @@
+{
+  "title": "maximum-length-substring-with-two-occurrences",
+  "questionId": "0",
+  "difficulty": "Unknown",
+  "tags": [],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.1 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "77.3",
+  "submittedAt": "2026-08-14T11:23:21.987Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/"
+}
