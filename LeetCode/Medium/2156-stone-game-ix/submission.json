@@ -1,0 +1,22 @@
+{
+  "title": "Stone Game IX",
+  "questionId": "2156",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Greedy",
+    "Minimax",
+    "Counting",
+    "Game Theory",
+    "Nim Game",
+    "Zero-Sum Game"
+  ],
+  "language": "cpp",
+  "runtime": "6 ms",
+  "memory": "131.3 MB",
+  "runtimePercentile": "43.7",
+  "memoryPercentile": "33.5",
+  "submittedAt": "2026-08-16T04:57:36.205Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game-ix/"
+}
