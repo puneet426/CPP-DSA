@@ -8,10 +8,10 @@
     "Longest Common Subsequence"
   ],
   "language": "cpp",
-  "runtime": "30 ms",
+  "runtime": "15 ms",
   "memory": "12.8 MB",
-  "runtimePercentile": "40.7",
-  "memoryPercentile": "87.4",
-  "submittedAt": "2026-08-17T11:13:30.283Z",
+  "runtimePercentile": "92.6",
+  "memoryPercentile": "88.6",
+  "submittedAt": "2026-08-17T11:23:12.540Z",
   "problemUrl": "https://leetcode.com/problems/longest-common-subsequence/"
 }

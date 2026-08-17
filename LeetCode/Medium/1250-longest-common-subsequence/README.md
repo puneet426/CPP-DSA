@@ -7,9 +7,9 @@
 **Tags:** String, Dynamic Programming, Longest Common Subsequence
 
 ## Submission
-- **Runtime:** 30 ms (beats 40.7%)
-- **Memory:** 12.8 MB (beats 87.4%)
-- **Submitted:** 2026-08-17 11:13:30 UTC
+- **Runtime:** 15 ms (beats 92.6%)
+- **Memory:** 12.8 MB (beats 88.6%)
+- **Submitted:** 2026-08-17 11:23:12 UTC
 
 ## Approach
 _Add your notes on the approach here._
