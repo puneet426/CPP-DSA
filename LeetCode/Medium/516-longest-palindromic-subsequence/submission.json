@@ -1,0 +1,16 @@
+{
+  "title": "Longest Palindromic Subsequence",
+  "questionId": "516",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "runtime": "59 ms",
+  "memory": "13.2 MB",
+  "runtimePercentile": "66.0",
+  "memoryPercentile": "84.7",
+  "submittedAt": "2026-08-17T13:27:24.742Z",
+  "problemUrl": "https://leetcode.com/problems/longest-palindromic-subsequence/"
+}
