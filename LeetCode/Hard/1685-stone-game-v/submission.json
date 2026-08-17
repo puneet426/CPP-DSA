@@ -1,0 +1,18 @@
+{
+  "title": "Stone Game V",
+  "questionId": "1685",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming",
+    "Game Theory"
+  ],
+  "language": "cpp",
+  "runtime": "50 ms",
+  "memory": "54.9 MB",
+  "runtimePercentile": "96.8",
+  "memoryPercentile": "5.1",
+  "submittedAt": "2026-08-17T11:42:20.089Z",
+  "problemUrl": "https://leetcode.com/problems/stone-game-v/"
+}
