@@ -1,0 +1,17 @@
+{
+  "title": "Delete Operation for Two Strings",
+  "questionId": "583",
+  "difficulty": "Medium",
+  "tags": [
+    "String",
+    "Dynamic Programming",
+    "Longest Common Subsequence"
+  ],
+  "language": "cpp",
+  "runtime": "35 ms",
+  "memory": "11 MB",
+  "runtimePercentile": "7.8",
+  "memoryPercentile": "98.8",
+  "submittedAt": "2026-08-17T11:35:32.184Z",
+  "problemUrl": "https://leetcode.com/problems/delete-operation-for-two-strings/"
+}
