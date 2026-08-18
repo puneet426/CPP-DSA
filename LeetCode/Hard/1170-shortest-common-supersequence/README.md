@@ -8,8 +8,8 @@
 
 ## Submission
 - **Runtime:** 19 ms (beats 97.5%)
-- **Memory:** 12.9 MB (beats 99.3%)
-- **Submitted:** 2026-08-18 04:29:22 UTC
+- **Memory:** 13 MB (beats 99.3%)
+- **Submitted:** 2026-08-18 05:49:04 UTC
 
 ## Approach
 _Add your notes on the approach here._

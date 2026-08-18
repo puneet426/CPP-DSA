@@ -9,9 +9,9 @@
   ],
   "language": "cpp",
   "runtime": "19 ms",
-  "memory": "12.9 MB",
+  "memory": "13 MB",
   "runtimePercentile": "97.5",
   "memoryPercentile": "99.3",
-  "submittedAt": "2026-08-18T04:29:22.155Z",
+  "submittedAt": "2026-08-18T05:49:04.420Z",
   "problemUrl": "https://leetcode.com/problems/shortest-common-supersequence/"
 }
