@@ -1,0 +1,16 @@
+{
+  "title": "Find the Largest Almost Missing Integer",
+  "questionId": "3705",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "29.2 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "73.7",
+  "submittedAt": "2026-08-18T04:47:20.320Z",
+  "problemUrl": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/"
+}
