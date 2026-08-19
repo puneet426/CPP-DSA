@@ -1,0 +1,16 @@
+{
+  "title": "Minimum Insertion Steps to Make a String Palindrome",
+  "questionId": "1437",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "runtime": "22 ms",
+  "memory": "13.4 MB",
+  "runtimePercentile": "80.9",
+  "memoryPercentile": "79.9",
+  "submittedAt": "2026-08-19T06:56:01.693Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+}
