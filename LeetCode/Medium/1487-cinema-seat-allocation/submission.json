@@ -1,0 +1,18 @@
+{
+  "title": "Cinema Seat Allocation",
+  "questionId": "1487",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Bit Manipulation"
+  ],
+  "language": "cpp",
+  "runtime": "16 ms",
+  "memory": "53.8 MB",
+  "runtimePercentile": "86.0",
+  "memoryPercentile": "96.8",
+  "submittedAt": "2026-08-19T06:58:23.816Z",
+  "problemUrl": "https://leetcode.com/problems/cinema-seat-allocation/"
+}
