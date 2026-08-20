@@ -1,0 +1,16 @@
+{
+  "title": "Distribute Elements Into Two Arrays I",
+  "questionId": "3347",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "23.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "83.6",
+  "submittedAt": "2026-08-20T16:44:18.395Z",
+  "problemUrl": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i/"
+}
