@@ -1,0 +1,18 @@
+{
+  "title": "Diameter of Binary Tree",
+  "questionId": "543",
+  "difficulty": "Easy",
+  "tags": [
+    "Tree",
+    "Depth-First Search",
+    "Binary Tree",
+    "DP on Trees"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "23.6 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "73.0",
+  "submittedAt": "2026-08-20T18:03:04.108Z",
+  "problemUrl": "https://leetcode.com/problems/diameter-of-binary-tree/"
+}
