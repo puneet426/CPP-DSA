@@ -1,0 +1,15 @@
+{
+  "title": "Check Divisibility by Digit Sum and Product",
+  "questionId": "3918",
+  "difficulty": "Easy",
+  "tags": [
+    "Math"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "7.8 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "68.6",
+  "submittedAt": "2026-08-22T13:23:14.489Z",
+  "problemUrl": "https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/"
+}
