@@ -1,0 +1,18 @@
+{
+  "title": "Sum Game",
+  "questionId": "2039",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "String",
+    "Greedy",
+    "Game Theory"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "14 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "33.6",
+  "submittedAt": "2026-08-23T17:35:53.323Z",
+  "problemUrl": "https://leetcode.com/problems/sum-game/"
+}
