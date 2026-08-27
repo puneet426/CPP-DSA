@@ -1,0 +1,19 @@
+{
+  "title": "Lexicographically Smallest Permutation Greater Than Target",
+  "questionId": "4020",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Counting",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "runtime": "8 ms",
+  "memory": "11.4 MB",
+  "runtimePercentile": "36.9",
+  "memoryPercentile": "40.8",
+  "submittedAt": "2026-08-27T17:59:13.106Z",
+  "problemUrl": "https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target/"
+}
