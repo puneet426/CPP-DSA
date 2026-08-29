@@ -1,0 +1,17 @@
+{
+  "title": "Make Lexicographically Smallest Array by Swapping Elements",
+  "questionId": "3219",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Union-Find",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "335 ms",
+  "memory": "226.3 MB",
+  "runtimePercentile": "38.3",
+  "memoryPercentile": "30.4",
+  "submittedAt": "2026-08-29T14:28:54.725Z",
+  "problemUrl": "https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/"
+}
