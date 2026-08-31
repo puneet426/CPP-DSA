@@ -1,0 +1,15 @@
+{
+  "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+  "questionId": "2182",
+  "difficulty": "Medium",
+  "tags": [
+    "Linked List"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "124.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "60.6",
+  "submittedAt": "2026-08-31T07:07:28.818Z",
+  "problemUrl": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+}
