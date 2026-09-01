@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Moves to Clean the Classroom",
+  "questionId": "3870",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Bit Manipulation",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "1166 ms",
+  "memory": "414.9 MB",
+  "runtimePercentile": "42.9",
+  "memoryPercentile": "29.6",
+  "submittedAt": "2026-09-01T16:45:09.890Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/"
+}
