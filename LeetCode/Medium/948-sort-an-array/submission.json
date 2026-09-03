@@ -1,0 +1,22 @@
+{
+  "title": "Sort an Array",
+  "questionId": "948",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Divide and Conquer",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Merge Sort",
+    "Bucket Sort",
+    "Radix Sort",
+    "Counting Sort"
+  ],
+  "language": "cpp",
+  "runtime": "643 ms",
+  "memory": "295.8 MB",
+  "runtimePercentile": "27.8",
+  "memoryPercentile": "9.3",
+  "submittedAt": "2026-09-03T08:34:24.730Z",
+  "problemUrl": "https://leetcode.com/problems/sort-an-array/"
+}
