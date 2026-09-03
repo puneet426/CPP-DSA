@@ -1,0 +1,16 @@
+{
+  "title": "Construct Uniform Parity Array II",
+  "questionId": "4258",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "165.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "87.4",
+  "submittedAt": "2026-09-03T17:23:09.405Z",
+  "problemUrl": "https://leetcode.com/problems/construct-uniform-parity-array-ii/"
+}
