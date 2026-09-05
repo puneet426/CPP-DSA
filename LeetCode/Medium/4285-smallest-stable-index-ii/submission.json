@@ -1,0 +1,16 @@
+{
+  "title": "Smallest Stable Index II",
+  "questionId": "4285",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "runtime": "7 ms",
+  "memory": "193.7 MB",
+  "runtimePercentile": "77.7",
+  "memoryPercentile": "99.6",
+  "submittedAt": "2026-09-05T16:49:48.105Z",
+  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/"
+}
