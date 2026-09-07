@@ -1,0 +1,16 @@
+{
+  "title": "Distinct Subsequences II",
+  "questionId": "977",
+  "difficulty": "Hard",
+  "tags": [
+    "String",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.9 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "78.8",
+  "submittedAt": "2026-09-07T16:41:45.390Z",
+  "problemUrl": "https://leetcode.com/problems/distinct-subsequences-ii/"
+}
