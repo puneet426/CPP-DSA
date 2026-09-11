@@ -1,0 +1,18 @@
+{
+  "title": "Unique 3-Digit Even Numbers",
+  "questionId": "3799",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Recursion",
+    "Enumeration"
+  ],
+  "language": "cpp",
+  "runtime": "11 ms",
+  "memory": "30.9 MB",
+  "runtimePercentile": "42.3",
+  "memoryPercentile": "66.8",
+  "submittedAt": "2026-09-11T16:18:54.107Z",
+  "problemUrl": "https://leetcode.com/problems/unique-3-digit-even-numbers/"
+}
