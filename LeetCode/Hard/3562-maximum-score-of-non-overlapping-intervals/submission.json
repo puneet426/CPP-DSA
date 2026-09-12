@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Score of Non-overlapping Intervals",
+  "questionId": "3562",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "909 ms",
+  "memory": "321.9 MB",
+  "runtimePercentile": "50.0",
+  "memoryPercentile": "45.7",
+  "submittedAt": "2026-09-12T15:30:06.149Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/"
+}
