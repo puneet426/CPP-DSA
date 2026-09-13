@@ -1,0 +1,16 @@
+{
+  "title": "Image Overlap",
+  "questionId": "864",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "327 ms",
+  "memory": "19.2 MB",
+  "runtimePercentile": "6.3",
+  "memoryPercentile": "6.1",
+  "submittedAt": "2026-09-13T17:41:29.501Z",
+  "problemUrl": "https://leetcode.com/problems/image-overlap/"
+}
