@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Number of Non-overlapping Palindrome Substrings",
+  "questionId": "2559",
+  "difficulty": "Hard",
+  "tags": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Greedy"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.7 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "98.4",
+  "submittedAt": "2026-09-15T16:07:27.966Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/"
+}
