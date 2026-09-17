@@ -1,0 +1,18 @@
+{
+  "title": "Number of Sets of K Non-Overlapping Line Segments",
+  "questionId": "1725",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Dynamic Programming",
+    "Combinatorics",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "runtime": "2 ms",
+  "memory": "7.9 MB",
+  "runtimePercentile": "78.7",
+  "memoryPercentile": "88.6",
+  "submittedAt": "2026-09-17T05:04:14.641Z",
+  "problemUrl": "https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/"
+}
