@@ -1,0 +1,19 @@
+{
+  "title": "Find Two Non-overlapping Sub-arrays Each With Target Sum",
+  "questionId": "1573",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Binary Search",
+    "Dynamic Programming",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "runtime": "20 ms",
+  "memory": "92.2 MB",
+  "runtimePercentile": "49.5",
+  "memoryPercentile": "54.9",
+  "submittedAt": "2026-09-17T18:30:49.994Z",
+  "problemUrl": "https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/"
+}
