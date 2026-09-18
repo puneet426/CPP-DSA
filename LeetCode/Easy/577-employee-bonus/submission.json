@@ -1,0 +1,15 @@
+{
+  "title": "Employee Bonus",
+  "questionId": "577",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "1238 ms",
+  "memory": "0B",
+  "runtimePercentile": "29.9",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T13:10:14.692Z",
+  "problemUrl": "https://leetcode.com/problems/employee-bonus/"
+}
