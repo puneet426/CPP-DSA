@@ -1,0 +1,15 @@
+{
+  "title": "Students and Examinations",
+  "questionId": "1415",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "1057 ms",
+  "memory": "0B",
+  "runtimePercentile": "71.3",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T14:36:46.699Z",
+  "problemUrl": "https://leetcode.com/problems/students-and-examinations/"
+}
