@@ -1,0 +1,15 @@
+{
+  "title": "Average Time of Process per Machine",
+  "questionId": "1801",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "224 ms",
+  "memory": "0B",
+  "runtimePercentile": "99.2",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T11:59:36.977Z",
+  "problemUrl": "https://leetcode.com/problems/average-time-of-process-per-machine/"
+}
