@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Number of Non-Overlapping Substrings",
+  "questionId": "1644",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "4 ms",
+  "memory": "23.4 MB",
+  "runtimePercentile": "92.6",
+  "memoryPercentile": "51.1",
+  "submittedAt": "2026-09-18T12:50:39.890Z",
+  "problemUrl": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/"
+}
