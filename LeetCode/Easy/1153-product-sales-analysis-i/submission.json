@@ -1,0 +1,15 @@
+{
+  "title": "Product Sales Analysis I",
+  "questionId": "1153",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "1433 ms",
+  "memory": "0B",
+  "runtimePercentile": "40.9",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T09:47:01.298Z",
+  "problemUrl": "https://leetcode.com/problems/product-sales-analysis-i/"
+}
