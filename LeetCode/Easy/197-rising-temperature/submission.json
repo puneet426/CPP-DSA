@@ -1,0 +1,15 @@
+{
+  "title": "Rising Temperature",
+  "questionId": "197",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "2196 ms",
+  "memory": "0B",
+  "runtimePercentile": "5.0",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T10:39:42.857Z",
+  "problemUrl": "https://leetcode.com/problems/rising-temperature/"
+}
