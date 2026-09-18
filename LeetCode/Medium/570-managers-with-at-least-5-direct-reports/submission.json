@@ -1,0 +1,15 @@
+{
+  "title": "Managers with at Least 5 Direct Reports",
+  "questionId": "570",
+  "difficulty": "Medium",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "305 ms",
+  "memory": "0B",
+  "runtimePercentile": "99.8",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-18T17:13:39.628Z",
+  "problemUrl": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/"
+}
