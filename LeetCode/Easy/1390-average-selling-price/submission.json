@@ -1,0 +1,15 @@
+{
+  "title": "Average Selling Price",
+  "questionId": "1390",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "854 ms",
+  "memory": "0B",
+  "runtimePercentile": "72.7",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-19T10:04:17.686Z",
+  "problemUrl": "https://leetcode.com/problems/average-selling-price/"
+}
