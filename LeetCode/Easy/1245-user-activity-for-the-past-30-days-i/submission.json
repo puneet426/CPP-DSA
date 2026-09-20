@@ -1,0 +1,15 @@
+{
+  "title": "User Activity for the Past 30 Days I",
+  "questionId": "1245",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "523 ms",
+  "memory": "0B",
+  "runtimePercentile": "69.1",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T09:53:49.617Z",
+  "problemUrl": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i/"
+}
