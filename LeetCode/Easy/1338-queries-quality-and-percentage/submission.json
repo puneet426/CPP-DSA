@@ -1,0 +1,15 @@
+{
+  "title": "Queries Quality and Percentage",
+  "questionId": "1338",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "354 ms",
+  "memory": "0B",
+  "runtimePercentile": "91.8",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T06:42:12.361Z",
+  "problemUrl": "https://leetcode.com/problems/queries-quality-and-percentage/"
+}
