@@ -1,0 +1,15 @@
+{
+  "title": "Classes With at Least 5 Students",
+  "questionId": "596",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "330 ms",
+  "memory": "0B",
+  "runtimePercentile": "83.5",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T10:00:40.812Z",
+  "problemUrl": "https://leetcode.com/problems/classes-with-at-least-5-students/"
+}
