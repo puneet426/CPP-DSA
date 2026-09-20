@@ -1,0 +1,15 @@
+{
+  "title": "Percentage of Users Attended a Contest",
+  "questionId": "1773",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "1052 ms",
+  "memory": "0B",
+  "runtimePercentile": "61.8",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T06:01:15.480Z",
+  "problemUrl": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/"
+}
