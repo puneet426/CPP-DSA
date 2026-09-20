@@ -1,0 +1,15 @@
+{
+  "title": "Employees Whose Manager Left the Company",
+  "questionId": "2127",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "360 ms",
+  "memory": "0B",
+  "runtimePercentile": "72.6",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T10:14:08.958Z",
+  "problemUrl": "https://leetcode.com/problems/employees-whose-manager-left-the-company/"
+}
