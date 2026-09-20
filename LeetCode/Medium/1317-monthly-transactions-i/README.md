@@ -7,9 +7,9 @@
 **Tags:** Database
 
 ## Submission
-- **Runtime:** 565 ms (beats 94.0%)
+- **Runtime:** 610 ms (beats 74.3%)
 - **Memory:** 0B (beats 100.0%)
-- **Submitted:** 2026-09-20 07:17:04 UTC
+- **Submitted:** 2026-09-20 09:23:21 UTC
 
 ## Approach
 _Add your notes on the approach here._
