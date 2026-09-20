@@ -1,0 +1,15 @@
+{
+  "title": "Monthly Transactions I",
+  "questionId": "1317",
+  "difficulty": "Medium",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "565 ms",
+  "memory": "0B",
+  "runtimePercentile": "94.0",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T07:17:04.907Z",
+  "problemUrl": "https://leetcode.com/problems/monthly-transactions-i/"
+}
