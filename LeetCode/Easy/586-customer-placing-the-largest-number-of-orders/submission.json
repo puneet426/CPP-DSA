@@ -1,0 +1,15 @@
+{
+  "title": "Customer Placing the Largest Number of Orders",
+  "questionId": "586",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "450 ms",
+  "memory": "0B",
+  "runtimePercentile": "93.3",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-20T09:22:02.488Z",
+  "problemUrl": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/"
+}
