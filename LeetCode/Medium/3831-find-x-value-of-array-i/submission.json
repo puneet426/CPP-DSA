@@ -1,0 +1,17 @@
+{
+  "title": "Find X Value of Array I",
+  "questionId": "3831",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Math",
+    "Dynamic Programming"
+  ],
+  "language": "cpp",
+  "runtime": "577 ms",
+  "memory": "338.8 MB",
+  "runtimePercentile": "10.7",
+  "memoryPercentile": "9.8",
+  "submittedAt": "2026-09-21T16:53:05.847Z",
+  "problemUrl": "https://leetcode.com/problems/find-x-value-of-array-i/"
+}
