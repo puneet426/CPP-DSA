@@ -9,10 +9,10 @@
     "Memoization"
   ],
   "language": "cpp",
-  "runtime": "2 ms",
-  "memory": "7.8 MB",
-  "runtimePercentile": "77.9",
-  "memoryPercentile": "38.7",
-  "submittedAt": "2026-08-03T11:13:52.062Z",
+  "runtime": "0 ms",
+  "memory": "7.6 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "98.9",
+  "submittedAt": "2026-09-21T11:16:04.925Z",
   "problemUrl": "https://leetcode.com/problems/fibonacci-number/"
 }

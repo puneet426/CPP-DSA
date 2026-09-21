@@ -7,9 +7,9 @@
 **Tags:** Math, Dynamic Programming, Recursion, Memoization
 
 ## Submission
-- **Runtime:** 2 ms (beats 77.9%)
-- **Memory:** 7.8 MB (beats 38.7%)
-- **Submitted:** 2026-08-03 11:13:52 UTC
+- **Runtime:** 0 ms (beats 100.0%)
+- **Memory:** 7.6 MB (beats 98.9%)
+- **Submitted:** 2026-09-21 11:16:04 UTC
 
 ## Approach
 _Add your notes on the approach here._
