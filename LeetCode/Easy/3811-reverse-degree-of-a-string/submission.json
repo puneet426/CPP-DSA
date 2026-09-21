@@ -1,0 +1,16 @@
+{
+  "title": "Reverse Degree of a String",
+  "questionId": "3811",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "Simulation"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "9.5 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "98.6",
+  "submittedAt": "2026-09-21T06:05:03.982Z",
+  "problemUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/"
+}
