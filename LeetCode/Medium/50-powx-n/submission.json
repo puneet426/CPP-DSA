@@ -1,0 +1,16 @@
+{
+  "title": "Pow(x, n)",
+  "questionId": "50",
+  "difficulty": "Medium",
+  "tags": [
+    "Math",
+    "Recursion"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "8.4 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "93.1",
+  "submittedAt": "2026-09-21T10:35:52.877Z",
+  "problemUrl": "https://leetcode.com/problems/powx-n/"
+}
