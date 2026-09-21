@@ -1,0 +1,15 @@
+{
+  "title": "Customer Who Visited but Did Not Make Any Transactions",
+  "questionId": "1724",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "2795 ms",
+  "memory": "0B",
+  "runtimePercentile": "5.0",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-21T07:00:44.626Z",
+  "problemUrl": "https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/"
+}
