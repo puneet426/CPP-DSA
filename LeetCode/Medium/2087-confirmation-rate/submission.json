@@ -1,0 +1,15 @@
+{
+  "title": "Confirmation Rate",
+  "questionId": "2087",
+  "difficulty": "Medium",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "687 ms",
+  "memory": "0B",
+  "runtimePercentile": "78.3",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-21T06:49:19.458Z",
+  "problemUrl": "https://leetcode.com/problems/confirmation-rate/"
+}
