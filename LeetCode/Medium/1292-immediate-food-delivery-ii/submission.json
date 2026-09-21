@@ -1,0 +1,15 @@
+{
+  "title": "Immediate Food Delivery II",
+  "questionId": "1292",
+  "difficulty": "Medium",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "662 ms",
+  "memory": "0B",
+  "runtimePercentile": "73.7",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-09-21T06:14:23.792Z",
+  "problemUrl": "https://leetcode.com/problems/immediate-food-delivery-ii/"
+}
