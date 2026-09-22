@@ -8,11 +8,11 @@
     "Breadth-First Search",
     "Matrix"
   ],
-  "language": "cpp",
-  "runtime": "3 ms",
-  "memory": "101.9 MB",
-  "runtimePercentile": "68.9",
-  "memoryPercentile": "97.9",
-  "submittedAt": "2026-09-22T05:09:12.282Z",
+  "language": "java",
+  "runtime": "4 ms",
+  "memory": "47.3 MB",
+  "runtimePercentile": "99.5",
+  "memoryPercentile": "38.2",
+  "submittedAt": "2026-09-22T05:17:49.663Z",
   "problemUrl": "https://leetcode.com/problems/island-perimeter/"
 }
