@@ -10,7 +10,7 @@
   "runtime": "0 ms",
   "memory": "13.7 MB",
   "runtimePercentile": "100.0",
-  "memoryPercentile": "42.8",
-  "submittedAt": "2026-07-03T10:02:24.763Z",
+  "memoryPercentile": "5.1",
+  "submittedAt": "2026-09-22T04:24:09.591Z",
   "problemUrl": "https://leetcode.com/problems/search-insert-position/"
 }
