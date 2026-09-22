@@ -1,0 +1,17 @@
+{
+  "title": "Find X Value of Array II",
+  "questionId": "3840",
+  "difficulty": "Hard",
+  "tags": [
+    "Array",
+    "Math",
+    "Segment Tree"
+  ],
+  "language": "cpp",
+  "runtime": "440 ms",
+  "memory": "300.5 MB",
+  "runtimePercentile": "27.3",
+  "memoryPercentile": "36.4",
+  "submittedAt": "2026-09-22T16:50:37.694Z",
+  "problemUrl": "https://leetcode.com/problems/find-x-value-of-array-ii/"
+}
