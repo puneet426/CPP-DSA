@@ -1,0 +1,18 @@
+{
+  "title": "Island Perimeter",
+  "questionId": "463",
+  "difficulty": "Easy",
+  "tags": [
+    "Array",
+    "Depth-First Search",
+    "Breadth-First Search",
+    "Matrix"
+  ],
+  "language": "cpp",
+  "runtime": "3 ms",
+  "memory": "101.9 MB",
+  "runtimePercentile": "68.9",
+  "memoryPercentile": "97.9",
+  "submittedAt": "2026-09-22T05:09:12.282Z",
+  "problemUrl": "https://leetcode.com/problems/island-perimeter/"
+}
