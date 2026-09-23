@@ -8,11 +8,11 @@
     "Sliding Window",
     "Prefix Sum"
   ],
-  "language": "cpp",
-  "runtime": "0 ms",
-  "memory": "41.8 MB",
-  "runtimePercentile": "100.0",
-  "memoryPercentile": "73.8",
-  "submittedAt": "2026-09-23T13:45:02.766Z",
+  "language": "java",
+  "runtime": "1 ms",
+  "memory": "68.7 MB",
+  "runtimePercentile": "99.8",
+  "memoryPercentile": "97.1",
+  "submittedAt": "2026-09-23T13:51:09.644Z",
   "problemUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/"
 }
