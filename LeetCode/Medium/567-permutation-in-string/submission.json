@@ -1,0 +1,18 @@
+{
+  "title": "Permutation in String",
+  "questionId": "567",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "Two Pointers",
+    "String",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "runtime": "12 ms",
+  "memory": "10.7 MB",
+  "runtimePercentile": "28.3",
+  "memoryPercentile": "27.2",
+  "submittedAt": "2026-09-23T06:24:58.442Z",
+  "problemUrl": "https://leetcode.com/problems/permutation-in-string/"
+}
