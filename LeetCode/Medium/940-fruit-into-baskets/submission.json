@@ -1,0 +1,17 @@
+{
+  "title": "Fruit Into Baskets",
+  "questionId": "940",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "runtime": "47 ms",
+  "memory": "84.7 MB",
+  "runtimePercentile": "42.7",
+  "memoryPercentile": "83.1",
+  "submittedAt": "2026-09-23T08:56:16.204Z",
+  "problemUrl": "https://leetcode.com/problems/fruit-into-baskets/"
+}
