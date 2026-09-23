@@ -1,0 +1,17 @@
+{
+  "title": "Sliding Subarray Beauty",
+  "questionId": "2751",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Hash Table",
+    "Sliding Window"
+  ],
+  "language": "cpp",
+  "runtime": "369 ms",
+  "memory": "192.8 MB",
+  "runtimePercentile": "11.2",
+  "memoryPercentile": "13.1",
+  "submittedAt": "2026-09-23T05:40:31.245Z",
+  "problemUrl": "https://leetcode.com/problems/sliding-subarray-beauty/"
+}
