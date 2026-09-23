@@ -1,0 +1,18 @@
+{
+  "title": "Minimum Size Subarray Sum",
+  "questionId": "209",
+  "difficulty": "Medium",
+  "tags": [
+    "Array",
+    "Binary Search",
+    "Sliding Window",
+    "Prefix Sum"
+  ],
+  "language": "cpp",
+  "runtime": "0 ms",
+  "memory": "41.8 MB",
+  "runtimePercentile": "100.0",
+  "memoryPercentile": "73.8",
+  "submittedAt": "2026-09-23T13:45:02.766Z",
+  "problemUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+}
