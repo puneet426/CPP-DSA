@@ -7,11 +7,11 @@
     "Hash Table",
     "Sliding Window"
   ],
-  "language": "cpp",
-  "runtime": "47 ms",
-  "memory": "84.7 MB",
-  "runtimePercentile": "42.7",
-  "memoryPercentile": "83.1",
-  "submittedAt": "2026-09-23T08:56:16.204Z",
+  "language": "java",
+  "runtime": "57 ms",
+  "memory": "70.6 MB",
+  "runtimePercentile": "21.8",
+  "memoryPercentile": "42.4",
+  "submittedAt": "2026-09-23T09:09:18.128Z",
   "problemUrl": "https://leetcode.com/problems/fruit-into-baskets/"
 }
