@@ -1,0 +1,22 @@
+{
+  "title": "Repeated DNA Sequences",
+  "questionId": "187",
+  "difficulty": "Medium",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Bit Manipulation",
+    "Sliding Window",
+    "Rolling Hash",
+    "Hash Function",
+    "Z Algorithm",
+    "Boyer–Moore String-Search Algorithm"
+  ],
+  "language": "cpp",
+  "runtime": "1374 ms",
+  "memory": "451 MB",
+  "runtimePercentile": "18.2",
+  "memoryPercentile": "28.5",
+  "submittedAt": "2026-09-24T03:43:57.774Z",
+  "problemUrl": "https://leetcode.com/problems/repeated-dna-sequences/"
+}
