@@ -1,0 +1,20 @@
+{
+  "title": "Brace Expansion II",
+  "questionId": "1188",
+  "difficulty": "Hard",
+  "tags": [
+    "Hash Table",
+    "String",
+    "Backtracking",
+    "Stack",
+    "Breadth-First Search",
+    "Sorting"
+  ],
+  "language": "cpp",
+  "runtime": "11 ms",
+  "memory": "15.8 MB",
+  "runtimePercentile": "49.1",
+  "memoryPercentile": "49.1",
+  "submittedAt": "2026-09-25T17:41:03.607Z",
+  "problemUrl": "https://leetcode.com/problems/brace-expansion-ii/"
+}
