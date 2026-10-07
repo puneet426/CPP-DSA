@@ -1,0 +1,15 @@
+{
+  "title": "List the Products Ordered in a Period",
+  "questionId": "1462",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "823 ms",
+  "memory": "0B",
+  "runtimePercentile": "44.1",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-10-07T10:21:18.073Z",
+  "problemUrl": "https://leetcode.com/problems/list-the-products-ordered-in-a-period/"
+}
