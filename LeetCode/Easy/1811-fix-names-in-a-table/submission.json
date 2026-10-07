@@ -1,0 +1,15 @@
+{
+  "title": "Fix Names in a Table",
+  "questionId": "1811",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "743 ms",
+  "memory": "0B",
+  "runtimePercentile": "40.4",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-10-07T09:20:08.469Z",
+  "problemUrl": "https://leetcode.com/problems/fix-names-in-a-table/"
+}
