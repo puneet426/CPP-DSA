@@ -1,0 +1,15 @@
+{
+  "title": "Delete Duplicate Emails",
+  "questionId": "196",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "1157 ms",
+  "memory": "0B",
+  "runtimePercentile": "10.0",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-10-07T09:48:27.158Z",
+  "problemUrl": "https://leetcode.com/problems/delete-duplicate-emails/"
+}
