@@ -1,0 +1,15 @@
+{
+  "title": "Patients With a Condition",
+  "questionId": "1670",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "436 ms",
+  "memory": "0B",
+  "runtimePercentile": "55.2",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-10-07T09:32:08.858Z",
+  "problemUrl": "https://leetcode.com/problems/patients-with-a-condition/"
+}
