@@ -1,0 +1,15 @@
+{
+  "title": "Find Users With Valid E-Mails",
+  "questionId": "1664",
+  "difficulty": "Easy",
+  "tags": [
+    "Database"
+  ],
+  "language": "mysql",
+  "runtime": "946 ms",
+  "memory": "0B",
+  "runtimePercentile": "25.5",
+  "memoryPercentile": "100.0",
+  "submittedAt": "2026-10-07T12:33:16.645Z",
+  "problemUrl": "https://leetcode.com/problems/find-users-with-valid-e-mails/"
+}
