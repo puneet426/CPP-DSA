@@ -1,0 +1,18 @@
+{
+  "title": "Repeated Substring Pattern",
+  "questionId": "459",
+  "difficulty": "Easy",
+  "tags": [
+    "String",
+    "String Matching",
+    "Z Algorithm",
+    "Knuth–Morris–Pratt Algorithm"
+  ],
+  "language": "cpp",
+  "runtime": "1902 ms",
+  "memory": "417.2 MB",
+  "runtimePercentile": "5.0",
+  "memoryPercentile": "5.9",
+  "submittedAt": "2026-10-17T08:06:03.136Z",
+  "problemUrl": "https://leetcode.com/problems/repeated-substring-pattern/"
+}
